@@ -1,3 +1,5 @@
+# This Project is **DEPRECATED**! (but it probably still works)
+
 # DocumentBorder
 
 Generiert supertolle Ränder für Dokumente
